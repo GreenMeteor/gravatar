@@ -1,0 +1,27 @@
+<?php
+
+return [
+    '<strong>Gravatar</strong> module configuration' => '<strong>Gravatar</strong> module configuration',
+    '<strong>Gravatar</strong> preview' => '<strong>Gravatar</strong> preview',
+    'Default Style' => 'Default Style',
+    'Default Rating' => 'Default Rating',
+    'Default style for Gravatar images when user has no custom avatar' => 'Default style for Gravatar images when user has no custom avatar',
+    'Maximum content rating for Gravatar images' => 'Maximum content rating for Gravatar images',
+    'This module provides Gravatar integration for HumHub. If a user does not have a profile image, their Gravatar will be displayed instead.' => 'This module provides Gravatar integration for HumHub. If a user does not have a profile image, their Gravatar will be displayed instead.',
+    'This is the style that will be used for users who do not have a Gravatar account.' => 'This is the style that will be used for users who do not have a Gravatar account.',
+    'This sets the maximum content rating for Gravatar images.' => 'This sets the maximum content rating for Gravatar images.',
+    'Learn more about Gravatar default images at {link}.' => 'Learn more about Gravatar default images at {link}.',
+    'Here are some examples of the default Gravatar styles:' => 'Here are some examples of the default Gravatar styles:',
+    'Identicon (geometric pattern)' => 'Identicon (geometric pattern)',
+    'MonsterID (monster cartoon)' => 'MonsterID (monster cartoon)',
+    'Wavatar (faces)' => 'Wavatar (faces)',
+    'Retro (8-bit arcade)' => 'Retro (8-bit arcade)',
+    'RoboHash (robots)' => 'RoboHash (robots)',
+    'Blank (transparent)' => 'Blank (transparent)',
+    'G (suitable for all audiences)' => 'G (suitable for all audiences)',
+    'PG (may contain rude gestures, provocatively dressed individuals, etc)' => 'PG (may contain rude gestures, provocatively dressed individuals, etc)',
+    'R (may contain harsh language, violence, nudity, etc)' => 'R (may contain harsh language, violence, nudity, etc)',
+    'X (may contain hardcore sexual imagery or extremely disturbing violence)' => 'X (may contain hardcore sexual imagery or extremely disturbing violence)',
+    'Gravatar Settings' => 'Gravatar Settings',
+    'Gravatar settings saved!' => 'Gravatar settings saved!',
+];

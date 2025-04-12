@@ -1,0 +1,18 @@
+{
+    "id": "gravatar",
+    "name": "Gravatar Integration",
+    "description": "Displays Gravatar profile images as fallback when users don't have a custom profile picture",
+    "keywords": ["profile", "image", "avatar", "gravatar"],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.16"
+    },
+    "screenshots": ["resources/Screenshot_1.png", "resources/Screenshot_2.png", "resources/Screenshot_3.png"],
+    "authors": [
+        {
+            "name": "Green Meteor",
+            "email": "hellp@greenmeteor.net",
+            "homepage": "https://greenmeteor.net"
+        }
+    ]
+}
