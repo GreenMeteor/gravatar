@@ -3,7 +3,7 @@
     "name": "Gravatar Integration",
     "description": "Displays Gravatar profile images as fallback when users don't have a custom profile picture",
     "keywords": ["profile", "image", "avatar", "gravatar"],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "humhub": {
         "minVersion": "1.16"
     },
